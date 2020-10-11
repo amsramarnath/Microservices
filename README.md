@@ -1,4 +1,4 @@
-# Microservices- Eureka Client - Circuit Breaker - Hystrix Dashboard - Spring Boot - Gradle
+# Microservices - Eureka Client - Circuit Breaker - Hystrix Dashboard - Spring Boot - Gradle
 
 ## Project Details
 ![MicroService](https://user-images.githubusercontent.com/37022051/95685414-5e815680-0c00-11eb-8394-5231b1148ddd.png)
