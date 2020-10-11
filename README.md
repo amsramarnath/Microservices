@@ -7,7 +7,7 @@
 
 ![MS2](https://user-images.githubusercontent.com/37022051/95685446-a0120180-0c00-11eb-85c5-8d9f9b455a1b.png)
 
-## Book Catalog Service - Eureka Client
+## Book Catalog Service - Main Eureka Client
 
 ![MS3](https://user-images.githubusercontent.com/37022051/95685473-c768ce80-0c00-11eb-84f2-54c8324ce6a4.png)
 
